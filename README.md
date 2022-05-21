@@ -13,9 +13,7 @@ Hello 👋 Je suis **développeur web front-end freelance**. En parrallèle de m
 
 Je travaille sur des projets de petite et moyenne taille, pour des associations ou des PME notamment, ou bien sur des projets personnels et scolaires. 
 
-# En savoir plus sur mon activité freelance
 
-🔗 https://devarpro.github.io/DevAr/index.html
 
 <!--
 **DevArPro/DevArPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

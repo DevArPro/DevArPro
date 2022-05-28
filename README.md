@@ -11,9 +11,9 @@ Hello 👋 Je suis **développeur web front-end freelance**. En parrallèle de m
 - Javascript
 - Vue.js3
 
-## Sur quel type de projets je travaille ?
+## Sur quels types de projets je travaille ?
 
-Je travaille sur des projets de petite et moyenne taille, pour des associations ou des PME notamment, ou bien sur des projets personnels et scolaires. 
+Je travaille sur des projets de petite et moyenne taille, pour des associations ou des PME notamment, ou bien sur des projets personnels et/ou scolaires. 
 
 
 

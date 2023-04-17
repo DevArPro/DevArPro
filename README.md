@@ -1,4 +1,4 @@
-# DevɅr | Développeur web
+# Lubin Fongarland | Développeur web
 
 ## Qui suis-je ?
 
